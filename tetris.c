@@ -5,7 +5,6 @@
 // Tmanho máximo da fila de peças
 #define MAX 5
 
-// ---------- Estruturas ----------
 
 // Estrutura das peças
 typedef struct {
